@@ -1,0 +1,3915 @@
+[{
+  "type": "tweet",
+  "id": "2094623656538423682",
+  "url": "https://x.com/Korem072Pmk/status/2094623656538423682",
+  "twitterUrl": "https://twitter.com/Korem072Pmk/status/2094623656538423682",
+  "text": "KULON PROGO.  Komandan Kodim 0731/Kulon Progo Letkol Inf Dyan Niti Sukma, S.I.P., M.Han., menghadiri Pemusnahan Barang Bukti Perkara Tindak Pidana Umum,  di Halaman Kantor Kejaksaan Negeri Kulon Progo, Yogyakarta, Jl. Sugiman No.16, Kemiri, Wates, Kapanewon Pengasih https://t.co/KUd9Y0mpcj",
+  "fullText": "KULON PROGO.  Komandan Kodim 0731/Kulon Progo Letkol Inf Dyan Niti Sukma, S.I.P., M.Han., menghadiri Pemusnahan Barang Bukti Perkara Tindak Pidana Umum,  di Halaman Kantor Kejaksaan Negeri Kulon Progo, Yogyakarta, Jl. Sugiman No.16, Kemiri, Wates, Kapanewon Pengasih https://t.co/KUd9Y0mpcj",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 129,
+  "createdAt": "Tue Sep 01 03:09:30 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2094623656538423682",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "Korem072Pmk",
+    "url": "https://x.com/Korem072Pmk",
+    "twitterUrl": "https://twitter.com/Korem072Pmk",
+    "id": "3119462413",
+    "name": "Korem 072 Pamungkas",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1737082182227939328/uW6UlZMY_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3119462413/1720180552",
+    "description": "Akun Twitter Resmi Korem 072/Pamungkas",
+    "location": "Jl. Reksobayan No.4 Yogyakarta",
+    "followers": 4069,
+    "following": 253,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Mar 31 07:28:32 +0000 2015",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 324,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 33745,
+    "statusesCount": 44275,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/KUd9Y0mpcj",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094623656538423682/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2094623539219582976",
+        "indices": [
+          267,
+          290
+        ],
+        "media_key": "3_2094623539219582976",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094623539219582976"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRGZAtla0AAecBn.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 840,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1000,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 877,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 500,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1000,
+          "width": 1500
+        },
+        "sizes": {
+          "large": {
+            "h": 1000,
+            "resize": "fit",
+            "w": 1500
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KUd9Y0mpcj"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/KUd9Y0mpcj",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094623656538423682/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2094623539290890240",
+        "indices": [
+          267,
+          290
+        ],
+        "media_key": "3_2094623539290890240",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094623539290890240"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRGZAt2a4AAsGGj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 717,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 853,
+              "x": 374,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 748,
+              "x": 426,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 427,
+              "x": 587,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 853,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 853,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KUd9Y0mpcj"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/KUd9Y0mpcj",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094623656538423682/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 45,
+                "w": 45,
+                "x": 851,
+                "y": 237
+              },
+              {
+                "h": 46,
+                "w": 46,
+                "x": 423,
+                "y": 245
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 561,
+                "y": 260
+              },
+              {
+                "h": 48,
+                "w": 48,
+                "x": 1072,
+                "y": 256
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 307,
+                "y": 265
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 956,
+                "y": 268
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 650,
+                "y": 273
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 196,
+                "y": 281
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 1193,
+                "y": 286
+              },
+              {
+                "h": 102,
+                "w": 102,
+                "x": 1038,
+                "y": 373
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 797,
+                "y": 222
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 396,
+                "y": 229
+              },
+              {
+                "h": 40,
+                "w": 40,
+                "x": 525,
+                "y": 243
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 1005,
+                "y": 240
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 287,
+                "y": 248
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 896,
+                "y": 251
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 609,
+                "y": 255
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 183,
+                "y": 263
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 1118,
+                "y": 268
+              },
+              {
+                "h": 95,
+                "w": 95,
+                "x": 973,
+                "y": 349
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 45,
+                "w": 45,
+                "x": 851,
+                "y": 237
+              },
+              {
+                "h": 46,
+                "w": 46,
+                "x": 423,
+                "y": 245
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 561,
+                "y": 260
+              },
+              {
+                "h": 48,
+                "w": 48,
+                "x": 1072,
+                "y": 256
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 307,
+                "y": 265
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 956,
+                "y": 268
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 650,
+                "y": 273
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 196,
+                "y": 281
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 1193,
+                "y": 286
+              },
+              {
+                "h": 102,
+                "w": 102,
+                "x": 1038,
+                "y": 373
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 23,
+                "w": 23,
+                "x": 452,
+                "y": 125
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 224,
+                "y": 130
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 298,
+                "y": 138
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 569,
+                "y": 136
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 163,
+                "y": 140
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 507,
+                "y": 142
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 345,
+                "y": 145
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 104,
+                "y": 149
+              },
+              {
+                "h": 23,
+                "w": 23,
+                "x": 633,
+                "y": 151
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 551,
+                "y": 198
+              }
+            ]
+          }
+        },
+        "id_str": "2094623539227922432",
+        "indices": [
+          267,
+          290
+        ],
+        "media_key": "3_2094623539227922432",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094623539227922432"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRGZAtnaEAAnv3z.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 717,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 853,
+              "x": 427,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 748,
+              "x": 490,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 427,
+              "x": 651,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 853,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 853,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KUd9Y0mpcj"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/KUd9Y0mpcj",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094623656538423682/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2094623539219582976",
+        "indices": [
+          267,
+          290
+        ],
+        "media_key": "3_2094623539219582976",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094623539219582976"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRGZAtla0AAecBn.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 840,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1000,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 877,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 500,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1000,
+              "w": 1500,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1000,
+          "width": 1500
+        },
+        "sizes": {
+          "large": {
+            "h": 1000,
+            "resize": "fit",
+            "w": 1500
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KUd9Y0mpcj"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/KUd9Y0mpcj",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094623656538423682/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2094623539290890240",
+        "indices": [
+          267,
+          290
+        ],
+        "media_key": "3_2094623539290890240",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094623539290890240"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRGZAt2a4AAsGGj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 717,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 853,
+              "x": 374,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 748,
+              "x": 426,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 427,
+              "x": 587,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 853,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 853,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KUd9Y0mpcj"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/KUd9Y0mpcj",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094623656538423682/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 45,
+                "w": 45,
+                "x": 851,
+                "y": 237
+              },
+              {
+                "h": 46,
+                "w": 46,
+                "x": 423,
+                "y": 245
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 561,
+                "y": 260
+              },
+              {
+                "h": 48,
+                "w": 48,
+                "x": 1072,
+                "y": 256
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 307,
+                "y": 265
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 956,
+                "y": 268
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 650,
+                "y": 273
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 196,
+                "y": 281
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 1193,
+                "y": 286
+              },
+              {
+                "h": 102,
+                "w": 102,
+                "x": 1038,
+                "y": 373
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 797,
+                "y": 222
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 396,
+                "y": 229
+              },
+              {
+                "h": 40,
+                "w": 40,
+                "x": 525,
+                "y": 243
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 1005,
+                "y": 240
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 287,
+                "y": 248
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 896,
+                "y": 251
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 609,
+                "y": 255
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 183,
+                "y": 263
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 1118,
+                "y": 268
+              },
+              {
+                "h": 95,
+                "w": 95,
+                "x": 973,
+                "y": 349
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 45,
+                "w": 45,
+                "x": 851,
+                "y": 237
+              },
+              {
+                "h": 46,
+                "w": 46,
+                "x": 423,
+                "y": 245
+              },
+              {
+                "h": 43,
+                "w": 43,
+                "x": 561,
+                "y": 260
+              },
+              {
+                "h": 48,
+                "w": 48,
+                "x": 1072,
+                "y": 256
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 307,
+                "y": 265
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 956,
+                "y": 268
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 650,
+                "y": 273
+              },
+              {
+                "h": 47,
+                "w": 47,
+                "x": 196,
+                "y": 281
+              },
+              {
+                "h": 45,
+                "w": 45,
+                "x": 1193,
+                "y": 286
+              },
+              {
+                "h": 102,
+                "w": 102,
+                "x": 1038,
+                "y": 373
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 23,
+                "w": 23,
+                "x": 452,
+                "y": 125
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 224,
+                "y": 130
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 298,
+                "y": 138
+              },
+              {
+                "h": 25,
+                "w": 25,
+                "x": 569,
+                "y": 136
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 163,
+                "y": 140
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 507,
+                "y": 142
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 345,
+                "y": 145
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 104,
+                "y": 149
+              },
+              {
+                "h": 23,
+                "w": 23,
+                "x": 633,
+                "y": 151
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 551,
+                "y": 198
+              }
+            ]
+          }
+        },
+        "id_str": "2094623539227922432",
+        "indices": [
+          267,
+          290
+        ],
+        "media_key": "3_2094623539227922432",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094623539227922432"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRGZAtnaEAAnv3z.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 717,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 853,
+              "x": 427,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 748,
+              "x": 490,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 427,
+              "x": 651,
+              "y": 0
+            },
+            {
+              "h": 853,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 853,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 853,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 800,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 453,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KUd9Y0mpcj"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HRGZAtla0AAecBn.jpg",
+    "https://pbs.twimg.com/media/HRGZAt2a4AAsGGj.jpg",
+    "https://pbs.twimg.com/media/HRGZAtnaEAAnv3z.jpg"
+  ],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2094389812421947570",
+  "url": "https://x.com/Korem072Pmk/status/2094389812421947570",
+  "twitterUrl": "https://twitter.com/Korem072Pmk/status/2094389812421947570",
+  "text": "KULON PROGO.  Komandan Kodim 0731/Kulon Progo Letkol Inf Dyan Niti Sukma, S.I.P., M.Han., menghadiri penutupan rangkaian kegiatan HUT ke-81 Kemerdekaan Republik Indonesia tahun 2026 Kabupaten Kulon Progo, di Gedung Kesenian Wates Kulon Progo, Minggu malam (30/8/2026). https://t.co/sU5Ams6NBA",
+  "fullText": "KULON PROGO.  Komandan Kodim 0731/Kulon Progo Letkol Inf Dyan Niti Sukma, S.I.P., M.Han., menghadiri penutupan rangkaian kegiatan HUT ke-81 Kemerdekaan Republik Indonesia tahun 2026 Kabupaten Kulon Progo, di Gedung Kesenian Wates Kulon Progo, Minggu malam (30/8/2026). https://t.co/sU5Ams6NBA",
+  "source": "Twitter Web App",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 82,
+  "createdAt": "Mon Aug 31 11:40:17 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2094389812421947570",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "Korem072Pmk",
+    "url": "https://x.com/Korem072Pmk",
+    "twitterUrl": "https://twitter.com/Korem072Pmk",
+    "id": "3119462413",
+    "name": "Korem 072 Pamungkas",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1737082182227939328/uW6UlZMY_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3119462413/1720180552",
+    "description": "Akun Twitter Resmi Korem 072/Pamungkas",
+    "location": "Jl. Reksobayan No.4 Yogyakarta",
+    "followers": 4069,
+    "following": 253,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Mar 31 07:28:32 +0000 2015",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 324,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 33745,
+    "statusesCount": 44275,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/sU5Ams6NBA",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094389812421947570/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 1323,
+                "y": 330
+              },
+              {
+                "h": 52,
+                "w": 52,
+                "x": 557,
+                "y": 347
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 672,
+                "y": 348
+              },
+              {
+                "h": 51,
+                "w": 51,
+                "x": 372,
+                "y": 372
+              },
+              {
+                "h": 55,
+                "w": 55,
+                "x": 177,
+                "y": 374
+              },
+              {
+                "h": 48,
+                "w": 48,
+                "x": 791,
+                "y": 377
+              },
+              {
+                "h": 75,
+                "w": 75,
+                "x": 192,
+                "y": 451
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 1030,
+                "y": 257
+              },
+              {
+                "h": 40,
+                "w": 40,
+                "x": 434,
+                "y": 270
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 523,
+                "y": 271
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 289,
+                "y": 289
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 137,
+                "y": 291
+              },
+              {
+                "h": 37,
+                "w": 37,
+                "x": 616,
+                "y": 293
+              },
+              {
+                "h": 58,
+                "w": 58,
+                "x": 149,
+                "y": 351
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 1323,
+                "y": 330
+              },
+              {
+                "h": 52,
+                "w": 52,
+                "x": 557,
+                "y": 347
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 672,
+                "y": 348
+              },
+              {
+                "h": 51,
+                "w": 51,
+                "x": 372,
+                "y": 372
+              },
+              {
+                "h": 55,
+                "w": 55,
+                "x": 177,
+                "y": 374
+              },
+              {
+                "h": 48,
+                "w": 48,
+                "x": 791,
+                "y": 377
+              },
+              {
+                "h": 75,
+                "w": 75,
+                "x": 192,
+                "y": 451
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 23,
+                "w": 23,
+                "x": 584,
+                "y": 145
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 245,
+                "y": 153
+              },
+              {
+                "h": 23,
+                "w": 23,
+                "x": 296,
+                "y": 153
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 164,
+                "y": 164
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 78,
+                "y": 165
+              },
+              {
+                "h": 21,
+                "w": 21,
+                "x": 349,
+                "y": 166
+              },
+              {
+                "h": 33,
+                "w": 33,
+                "x": 84,
+                "y": 199
+              }
+            ]
+          }
+        },
+        "id_str": "2094389803857108992",
+        "indices": [
+          269,
+          292
+        ],
+        "media_key": "3_2094389803857108992",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094389803857108992"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRDEbhgaYAACySL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 862,
+              "w": 1540,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1095,
+              "w": 1095,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1095,
+              "w": 961,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1095,
+              "w": 548,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1095,
+              "w": 1540,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1095,
+          "width": 1540
+        },
+        "sizes": {
+          "large": {
+            "h": 1095,
+            "resize": "fit",
+            "w": 1540
+          },
+          "medium": {
+            "h": 853,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 484,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sU5Ams6NBA"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/sU5Ams6NBA",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094389812421947570/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 340,
+                "y": 266
+              },
+              {
+                "h": 88,
+                "w": 88,
+                "x": 503,
+                "y": 222
+              },
+              {
+                "h": 99,
+                "w": 99,
+                "x": 944,
+                "y": 159
+              },
+              {
+                "h": 199,
+                "w": 199,
+                "x": 652,
+                "y": 387
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 44,
+                "w": 44,
+                "x": 269,
+                "y": 210
+              },
+              {
+                "h": 69,
+                "w": 69,
+                "x": 398,
+                "y": 175
+              },
+              {
+                "h": 78,
+                "w": 78,
+                "x": 747,
+                "y": 125
+              },
+              {
+                "h": 157,
+                "w": 157,
+                "x": 516,
+                "y": 306
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 340,
+                "y": 266
+              },
+              {
+                "h": 88,
+                "w": 88,
+                "x": 503,
+                "y": 222
+              },
+              {
+                "h": 99,
+                "w": 99,
+                "x": 944,
+                "y": 159
+              },
+              {
+                "h": 199,
+                "w": 199,
+                "x": 652,
+                "y": 387
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 25,
+                "w": 25,
+                "x": 152,
+                "y": 119
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 225,
+                "y": 99
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 423,
+                "y": 71
+              },
+              {
+                "h": 89,
+                "w": 89,
+                "x": 292,
+                "y": 173
+              }
+            ]
+          }
+        },
+        "id_str": "2094389803890671616",
+        "indices": [
+          269,
+          292
+        ],
+        "media_key": "3_2094389803890671616",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094389803890671616"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRDEbhoagAAmQhW.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 849,
+              "w": 1516,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1091,
+              "w": 1091,
+              "x": 402,
+              "y": 0
+            },
+            {
+              "h": 1091,
+              "w": 957,
+              "x": 469,
+              "y": 0
+            },
+            {
+              "h": 1091,
+              "w": 546,
+              "x": 674,
+              "y": 0
+            },
+            {
+              "h": 1091,
+              "w": 1516,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1091,
+          "width": 1516
+        },
+        "sizes": {
+          "large": {
+            "h": 1091,
+            "resize": "fit",
+            "w": 1516
+          },
+          "medium": {
+            "h": 864,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 489,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sU5Ams6NBA"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/sU5Ams6NBA",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094389812421947570/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 1323,
+                "y": 330
+              },
+              {
+                "h": 52,
+                "w": 52,
+                "x": 557,
+                "y": 347
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 672,
+                "y": 348
+              },
+              {
+                "h": 51,
+                "w": 51,
+                "x": 372,
+                "y": 372
+              },
+              {
+                "h": 55,
+                "w": 55,
+                "x": 177,
+                "y": 374
+              },
+              {
+                "h": 48,
+                "w": 48,
+                "x": 791,
+                "y": 377
+              },
+              {
+                "h": 75,
+                "w": 75,
+                "x": 192,
+                "y": 451
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 42,
+                "w": 42,
+                "x": 1030,
+                "y": 257
+              },
+              {
+                "h": 40,
+                "w": 40,
+                "x": 434,
+                "y": 270
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 523,
+                "y": 271
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 289,
+                "y": 289
+              },
+              {
+                "h": 42,
+                "w": 42,
+                "x": 137,
+                "y": 291
+              },
+              {
+                "h": 37,
+                "w": 37,
+                "x": 616,
+                "y": 293
+              },
+              {
+                "h": 58,
+                "w": 58,
+                "x": 149,
+                "y": 351
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 54,
+                "w": 54,
+                "x": 1323,
+                "y": 330
+              },
+              {
+                "h": 52,
+                "w": 52,
+                "x": 557,
+                "y": 347
+              },
+              {
+                "h": 54,
+                "w": 54,
+                "x": 672,
+                "y": 348
+              },
+              {
+                "h": 51,
+                "w": 51,
+                "x": 372,
+                "y": 372
+              },
+              {
+                "h": 55,
+                "w": 55,
+                "x": 177,
+                "y": 374
+              },
+              {
+                "h": 48,
+                "w": 48,
+                "x": 791,
+                "y": 377
+              },
+              {
+                "h": 75,
+                "w": 75,
+                "x": 192,
+                "y": 451
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 23,
+                "w": 23,
+                "x": 584,
+                "y": 145
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 245,
+                "y": 153
+              },
+              {
+                "h": 23,
+                "w": 23,
+                "x": 296,
+                "y": 153
+              },
+              {
+                "h": 22,
+                "w": 22,
+                "x": 164,
+                "y": 164
+              },
+              {
+                "h": 24,
+                "w": 24,
+                "x": 78,
+                "y": 165
+              },
+              {
+                "h": 21,
+                "w": 21,
+                "x": 349,
+                "y": 166
+              },
+              {
+                "h": 33,
+                "w": 33,
+                "x": 84,
+                "y": 199
+              }
+            ]
+          }
+        },
+        "id_str": "2094389803857108992",
+        "indices": [
+          269,
+          292
+        ],
+        "media_key": "3_2094389803857108992",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094389803857108992"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRDEbhgaYAACySL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 862,
+              "w": 1540,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1095,
+              "w": 1095,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1095,
+              "w": 961,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1095,
+              "w": 548,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1095,
+              "w": 1540,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1095,
+          "width": 1540
+        },
+        "sizes": {
+          "large": {
+            "h": 1095,
+            "resize": "fit",
+            "w": 1540
+          },
+          "medium": {
+            "h": 853,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 484,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sU5Ams6NBA"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/sU5Ams6NBA",
+        "expanded_url": "https://x.com/Korem072Pmk/status/2094389812421947570/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 340,
+                "y": 266
+              },
+              {
+                "h": 88,
+                "w": 88,
+                "x": 503,
+                "y": 222
+              },
+              {
+                "h": 99,
+                "w": 99,
+                "x": 944,
+                "y": 159
+              },
+              {
+                "h": 199,
+                "w": 199,
+                "x": 652,
+                "y": 387
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 44,
+                "w": 44,
+                "x": 269,
+                "y": 210
+              },
+              {
+                "h": 69,
+                "w": 69,
+                "x": 398,
+                "y": 175
+              },
+              {
+                "h": 78,
+                "w": 78,
+                "x": 747,
+                "y": 125
+              },
+              {
+                "h": 157,
+                "w": 157,
+                "x": 516,
+                "y": 306
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 340,
+                "y": 266
+              },
+              {
+                "h": 88,
+                "w": 88,
+                "x": 503,
+                "y": 222
+              },
+              {
+                "h": 99,
+                "w": 99,
+                "x": 944,
+                "y": 159
+              },
+              {
+                "h": 199,
+                "w": 199,
+                "x": 652,
+                "y": 387
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 25,
+                "w": 25,
+                "x": 152,
+                "y": 119
+              },
+              {
+                "h": 39,
+                "w": 39,
+                "x": 225,
+                "y": 99
+              },
+              {
+                "h": 44,
+                "w": 44,
+                "x": 423,
+                "y": 71
+              },
+              {
+                "h": 89,
+                "w": 89,
+                "x": 292,
+                "y": 173
+              }
+            ]
+          }
+        },
+        "id_str": "2094389803890671616",
+        "indices": [
+          269,
+          292
+        ],
+        "media_key": "3_2094389803890671616",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094389803890671616"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRDEbhoagAAmQhW.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 849,
+              "w": 1516,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1091,
+              "w": 1091,
+              "x": 402,
+              "y": 0
+            },
+            {
+              "h": 1091,
+              "w": 957,
+              "x": 469,
+              "y": 0
+            },
+            {
+              "h": 1091,
+              "w": 546,
+              "x": 674,
+              "y": 0
+            },
+            {
+              "h": 1091,
+              "w": 1516,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1091,
+          "width": 1516
+        },
+        "sizes": {
+          "large": {
+            "h": 1091,
+            "resize": "fit",
+            "w": 1516
+          },
+          "medium": {
+            "h": 864,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 489,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sU5Ams6NBA"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HRDEbhgaYAACySL.jpg",
+    "https://pbs.twimg.com/media/HRDEbhoagAAmQhW.jpg"
+  ],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2094379150908043695",
+  "url": "https://x.com/Aprilia_wiji/status/2094379150908043695",
+  "twitterUrl": "https://twitter.com/Aprilia_wiji/status/2094379150908043695",
+  "text": "Kisah Pak Timbul di Kulon Progo membuktikan pentingnya pemutakhiran data DTSEN. Satu perubahan kondisi keluarga berdampak pada penilaian desil agar bantuan makin tepat sasaran.\n​Cek &amp; perbarui data keluargamu. @bps_statistics\n\n#MengenalDesilDTSEN \n\n#TimnasDay GRIB GBLA Persib https://t.co/zjk3wLWPtA",
+  "fullText": "Kisah Pak Timbul di Kulon Progo membuktikan pentingnya pemutakhiran data DTSEN. Satu perubahan kondisi keluarga berdampak pada penilaian desil agar bantuan makin tepat sasaran.\n​Cek &amp; perbarui data keluargamu. @bps_statistics\n\n#MengenalDesilDTSEN \n\n#TimnasDay GRIB GBLA Persib https://t.co/zjk3wLWPtA",
+  "source": "Twitter for Android",
+  "retweetCount": 3,
+  "replyCount": 0,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 456,
+  "createdAt": "Mon Aug 31 10:57:55 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2094379150908043695",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "Aprilia_wiji",
+    "url": "https://x.com/Aprilia_wiji",
+    "twitterUrl": "https://twitter.com/Aprilia_wiji",
+    "id": "326453024",
+    "name": "Aprilia Wiji",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1972942536236044289/6N9RJwEp_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/326453024/1759030512",
+    "description": "",
+    "location": "",
+    "followers": 3531,
+    "following": 758,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 29 23:08:00 +0000 2011",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 37208,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 8762,
+    "statusesCount": 52638,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/zjk3wLWPtA",
+        "expanded_url": "https://x.com/Aprilia_wiji/status/2094379150908043695/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2094379105248825344",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "13_2094379105248825344",
+        "media_results": {
+          "result": {
+            "media_key": "13_2094379105248825344"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2094379105248825344/img/rIO_c0IspRfaG43E.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/zjk3wLWPtA",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 66478,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2094379105248825344/pl/Q6riYTeexxpzUNZ6.m3u8?tag=29"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2094379105248825344/vid/avc1/320x568/RUQbep1ud93-KAFe.mp4?tag=29"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2094379105248825344/vid/avc1/480x852/z25PStVQtZkC1T6p.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2094379105248825344/vid/avc1/720x1280/W4Ant03ej6xFU3cM.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          231,
+          250
+        ],
+        "text": "MengenalDesilDTSEN"
+      },
+      {
+        "indices": [
+          253,
+          263
+        ],
+        "text": "TimnasDay"
+      }
+    ],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/zjk3wLWPtA",
+        "expanded_url": "https://x.com/Aprilia_wiji/status/2094379150908043695/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2094379105248825344",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "13_2094379105248825344",
+        "media_results": {
+          "result": {
+            "media_key": "13_2094379105248825344"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2094379105248825344/img/rIO_c0IspRfaG43E.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/zjk3wLWPtA",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 66478,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2094379105248825344/pl/Q6riYTeexxpzUNZ6.m3u8?tag=29"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2094379105248825344/vid/avc1/320x568/RUQbep1ud93-KAFe.mp4?tag=29"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2094379105248825344/vid/avc1/480x852/z25PStVQtZkC1T6p.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2094379105248825344/vid/avc1/720x1280/W4Ant03ej6xFU3cM.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "3021760068",
+        "indices": [
+          214,
+          229
+        ],
+        "name": "Badan Pusat Statistik",
+        "screen_name": "bps_statistics"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2094379105248825344/img/rIO_c0IspRfaG43E.jpg"
+  ],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2094257172251398597",
+  "url": "https://x.com/txtfromjogja/status/2094257172251398597",
+  "twitterUrl": "https://twitter.com/txtfromjogja/status/2094257172251398597",
+  "text": "Infonya dari BPS Kulon Progo, desil Pak Timbul ini udah turun ke 1—5, tapi pas cek di data pusat masih 6—10 https://t.co/SbViXgs4na",
+  "fullText": "Infonya dari BPS Kulon Progo, desil Pak Timbul ini udah turun ke 1—5, tapi pas cek di data pusat masih 6—10 https://t.co/SbViXgs4na",
+  "source": "Twitter for Android",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 9,
+  "quoteCount": 0,
+  "viewCount": 3107,
+  "createdAt": "Mon Aug 31 02:53:13 +0000 2026",
+  "lang": "in",
+  "quoteId": "2092074968624566272",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2094257172251398597",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "txtfromjogja",
+    "url": "https://x.com/txtfromjogja",
+    "twitterUrl": "https://twitter.com/txtfromjogja",
+    "id": "1359069398632337408",
+    "name": "txt dari jogja",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1995799332063510529/USURH-7x_normal.jpg",
+    "coverPicture": "",
+    "description": "apa aja tentang provinsi yang sering diromantisasi oleh warga",
+    "location": "",
+    "followers": 78523,
+    "following": 234,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 09 09:19:40 +0000 2021",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7267,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3376,
+    "statusesCount": 11005,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1464803985286651905"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/SbViXgs4na",
+        "expanded_url": "https://x.com/txtfromjogja/status/2094257172251398597/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 113,
+                "w": 113,
+                "x": 201,
+                "y": 1307
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 66,
+                "w": 66,
+                "x": 117,
+                "y": 765
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 198,
+                "w": 198,
+                "x": 350,
+                "y": 2272
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 66,
+                "y": 434
+              }
+            ]
+          }
+        },
+        "id_str": "2094257162830934016",
+        "indices": [
+          108,
+          131
+        ],
+        "media_key": "3_2094257162830934016",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094257162830934016"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRBLyzLa8AAv-PK.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1017,
+              "w": 1816,
+              "x": 0,
+              "y": 292
+            },
+            {
+              "h": 1816,
+              "w": 1816,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2070,
+              "w": 1816,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3558,
+              "w": 1779,
+              "x": 37,
+              "y": 0
+            },
+            {
+              "h": 3558,
+              "w": 1816,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 3558,
+          "width": 1816
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1045
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 612
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 347
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/SbViXgs4na"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/SbViXgs4na",
+        "expanded_url": "https://x.com/txtfromjogja/status/2094257172251398597/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 113,
+                "w": 113,
+                "x": 201,
+                "y": 1307
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 66,
+                "w": 66,
+                "x": 117,
+                "y": 765
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 198,
+                "w": 198,
+                "x": 350,
+                "y": 2272
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 66,
+                "y": 434
+              }
+            ]
+          }
+        },
+        "id_str": "2094257162830934016",
+        "indices": [
+          108,
+          131
+        ],
+        "media_key": "3_2094257162830934016",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094257162830934016"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRBLyzLa8AAv-PK.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1017,
+              "w": 1816,
+              "x": 0,
+              "y": 292
+            },
+            {
+              "h": 1816,
+              "w": 1816,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2070,
+              "w": 1816,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 3558,
+              "w": 1779,
+              "x": 37,
+              "y": 0
+            },
+            {
+              "h": 3558,
+              "w": 1816,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 3558,
+          "width": 1816
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 1045
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 612
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 347
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/SbViXgs4na"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2092074968624566272",
+    "text": "ada tukang becak di kulon progo, tadinya desil 1—2 katanya karena masih menerima bansos juga, tapi kemarin pas dicek jadi desil 9😭\n\nanaknya baru masuk kuliah, jadi ga bisa dapet bantuan pip🥲 https://t.co/GjbqSFlbPy",
+    "source": "Twitter for Android",
+    "retweetCount": 9,
+    "replyCount": 0,
+    "likeCount": 50,
+    "quoteCount": 1,
+    "viewCount": 4156,
+    "createdAt": "Tue Aug 25 02:21:56 +0000 2026",
+    "lang": "in",
+    "bookmarkCount": 1,
+    "possiblySensitive": false,
+    "author": {
+      "type": "user",
+      "userName": "txtfromjogja",
+      "url": "https://x.com/txtfromjogja",
+      "twitterUrl": "https://twitter.com/txtfromjogja",
+      "id": "1359069398632337408",
+      "name": "txt dari jogja",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1995799332063510529/USURH-7x_normal.jpg",
+      "coverPicture": "",
+      "description": "apa aja tentang provinsi yang sering diromantisasi oleh warga",
+      "location": "",
+      "followers": 78523,
+      "following": 234,
+      "protected": false,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Feb 09 09:19:40 +0000 2021",
+      "entities": {
+        "description": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 7267,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3376,
+      "statusesCount": 11005,
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "professional": {
+        "category": [],
+        "professional_type": "Creator",
+        "rest_id": "1464803985286651905"
+      }
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/GjbqSFlbPy",
+          "expanded_url": "https://x.com/txtfromjogja/status/2092074968624566272/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2092074960940568576",
+          "indices": [
+            191,
+            214
+          ],
+          "media_key": "3_2092074960940568576",
+          "media_results": {
+            "result": {
+              "media_key": "3_2092074960940568576"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HQiLF7paEAAjZLr.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1017,
+                "w": 1816,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1816,
+                "w": 1816,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2070,
+                "w": 1816,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2738,
+                "w": 1369,
+                "x": 205,
+                "y": 0
+              },
+              {
+                "h": 2738,
+                "w": 1816,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2738,
+            "width": 1816
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1358
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 796
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 451
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GjbqSFlbPy"
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/GjbqSFlbPy",
+          "expanded_url": "https://x.com/txtfromjogja/status/2092074968624566272/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2092074960940568576",
+          "indices": [
+            191,
+            214
+          ],
+          "media_key": "3_2092074960940568576",
+          "media_results": {
+            "result": {
+              "media_key": "3_2092074960940568576"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HQiLF7paEAAjZLr.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1017,
+                "w": 1816,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1816,
+                "w": 1816,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2070,
+                "w": 1816,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2738,
+                "w": 1369,
+                "x": 205,
+                "y": 0
+              },
+              {
+                "h": 2738,
+                "w": 1816,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2738,
+            "width": 1816
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1358
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 796
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 451
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GjbqSFlbPy"
+        }
+      ]
+    }
+  },
+  "media": [
+    "https://pbs.twimg.com/media/HRBLyzLa8AAv-PK.jpg"
+  ],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2094252816349237614",
+  "url": "https://x.com/RadioElshinta/status/2094252816349237614",
+  "twitterUrl": "https://twitter.com/RadioElshinta/status/2094252816349237614",
+  "text": "Badan Pusat Statistik akhirnya melakukan Pemutakhiran Data Tunggal Sosial dan Ekonomi Nasional (DTSEN) pada seorang seorang tukang becak asal Kulon Progo Yogyakarta,Timbul (49), dari 9 menjadi Desil 3. Berita ini Viral karena  sebelumnya Timbul berada di Desil 1. Namun efek dari salah status  tsb, telah menyebabkan keluarga Timbul kehilangan hak atas bantuan sosial dan beasiswa pendidikan. Hal serupa terjadi juga pada  pengemudi ojek online bernama Brahman Tio, yang hidup pas-pasan, tidak memiliki aset selain satu unit sepeda motor untuk bekerja, dan kesulitan memenuhi kebutuhan sehari-hari, Tio tertulis berada di Desil 7.\n\nTerkait dengan temuan desil yang tak sesuai dengan kondisi faktual warga, benarkah ini murni kesalahan pada petugas input datanya? Bagaimana sebaiknya Pemerintah mempertanggungjawabkan kesalahan data ini, yg telah menyebabkan kerugian besar pada masyarakat terdampak?\n \nTALK: Peneliti  Kebijakan Publik dari Fakultas Ilmu Administrasi, Universitas Indonesia -  Vunny Wijaya   \n\nStream: https://t.co/OKTXBtQQMT",
+  "fullText": "Badan Pusat Statistik akhirnya melakukan Pemutakhiran Data Tunggal Sosial dan Ekonomi Nasional (DTSEN) pada seorang seorang tukang becak asal Kulon Progo Yogyakarta,Timbul (49), dari 9 menjadi Desil 3. Berita ini Viral karena  sebelumnya Timbul berada di Desil 1. Namun efek dari https://t.co/mtSx0n241f",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 989,
+  "createdAt": "Mon Aug 31 02:35:55 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2094252816349237614",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "RadioElshinta",
+    "url": "https://x.com/RadioElshinta",
+    "twitterUrl": "https://twitter.com/RadioElshinta",
+    "id": "121640063",
+    "name": "Radio Elshinta",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2060183237675417600/83THsfLR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/121640063/1758600853",
+    "description": "Akun Resmi Radio Elshinta Jakarta 90FM | News and Talk | Telp: 021-5869000 | SMS & WA: 081-180-6543 | Streaming : https://t.co/OKTXBtQQMT",
+    "location": "",
+    "followers": 3242548,
+    "following": 12,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 10 03:52:46 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "elshinta.com/live/radio",
+            "expanded_url": "http://elshinta.com/live/radio",
+            "indices": [
+              114,
+              137
+            ],
+            "url": "https://t.co/OKTXBtQQMT"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "elshinta.com",
+            "expanded_url": "http://www.elshinta.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/zZGHy1Pwaq"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23539,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 922443,
+    "statusesCount": 1657305,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 580,
+          "name": "Media & News Company"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1614549957427736576"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/mtSx0n241f",
+        "expanded_url": "https://x.com/RadioElshinta/status/2094252816349237614/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2094252805708214272",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "3_2094252805708214272",
+        "media_results": {
+          "result": {
+            "media_key": "3_2094252805708214272"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HRBH1LoacAAqlBH.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1323,
+              "w": 2362,
+              "x": 0,
+              "y": 1039
+            },
+            {
+              "h": 2362,
+              "w": 2362,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2362,
+              "w": 2072,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2362,
+              "w": 1181,
+              "x": 295,
+              "y": 0
+            },
+            {
+              "h": 2362,
+              "w": 2362,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2362,
+          "width": 2362
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mtSx0n241f"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "elshinta.com/live/radio",
+        "expanded_url": "http://elshinta.com/live/radio",
+        "indices": [
+          1018,
+          1041
+        ],
+        "url": "https://t.co/OKTXBtQQMT"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HRBH1LoacAAqlBH.jpg"
+  ],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2093715699311280318",
+  "url": "https://x.com/tempodotco/status/2093715699311280318",
+  "twitterUrl": "https://twitter.com/tempodotco/status/2093715699311280318",
+  "text": "Pemenang Kategori Akses Penduduk ke Layanan Pendidikan. Provinsi: Daerah Istimewa Yogyakarta dan Bali; Kota: Salatiga, Blitar, dan Madiun; Kabupaten: Ponorogo, Kulon Progo, dan Magetan. \n\n#InfoTempo #Kemendagri #ApresiasiPemerintahDaerahBerprestasi",
+  "fullText": "Pemenang Kategori Akses Penduduk ke Layanan Pendidikan. Provinsi: Daerah Istimewa Yogyakarta dan Bali; Kota: Salatiga, Blitar, dan Madiun; Kabupaten: Ponorogo, Kulon Progo, dan Magetan. \n\n#InfoTempo #Kemendagri #ApresiasiPemerintahDaerahBerprestasi",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 2111,
+  "createdAt": "Sat Aug 29 15:01:36 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2093715696765317288",
+  "conversationId": "2093715683389608228",
+  "inReplyToUserId": "18129942",
+  "inReplyToUsername": "tempodotco",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "tempodotco",
+    "url": "https://x.com/tempodotco",
+    "twitterUrl": "https://twitter.com/tempodotco",
+    "id": "18129942",
+    "name": "tempo.co",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1968882591031058432/qH8VMl2G_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/18129942/1730987805",
+    "description": "sejak 1971 | enak dibaca dan perlu",
+    "location": "Indonesia",
+    "followers": 2551371,
+    "following": 19,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 15 03:54:15 +0000 2008",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "tempo.co",
+            "expanded_url": "http://tempo.co",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/aR6kgUM5in"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1599,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 35468,
+    "statusesCount": 1441998,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2104158165172691267"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 580,
+          "name": "Media & News Company"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1469684527916150792"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          188,
+          198
+        ],
+        "text": "InfoTempo"
+      },
+      {
+        "indices": [
+          199,
+          210
+        ],
+        "text": "Kemendagri"
+      },
+      {
+        "indices": [
+          211,
+          248
+        ],
+        "text": "ApresiasiPemerintahDaerahBerprestasi"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2093701009906323699",
+  "url": "https://x.com/itscherieclub/status/2093701009906323699",
+  "twitterUrl": "https://twitter.com/itscherieclub/status/2093701009906323699",
+  "text": "⚠️TW : Kekerasan\n\nPerempuan Dipukul Usai Menegur Pria yang Terus Memandanginya di Waduk Sermo\n\nSeorang perempuan berinisial YR (33) diduga menjadi korban penganiayaan di kawasan Waduk Sermo, Kulon Progo, Kamis (27/8).\n\nKejadian bermula ketika YR sedang beristirahat di kawasan waduk. Seorang pria berinisial A (43) disebut berhenti tidak jauh darinya sambil makan cilok dan terus memandangi YR.\n\nMerasa tidak nyaman, YR kemudian menghampiri dan menegur A.\n\n“Mas, lek nyawang ojo koyo ngono.”\n\nNamun teguran tersebut justru membuat A emosi. Polisi menyebut A kemudian tiba-tiba memukul YR hingga korban mengalami luka pada bagian wajah dan mendapat perawatan medis.\n\nKeduanya disebut tidak saling mengenal sebelumnya.\n\nA kini telah diamankan di Polsek Kokap. Polisi masih mendalami motif di balik penganiayaan tersebut.",
+  "fullText": "⚠️TW : Kekerasan\n\nPerempuan Dipukul Usai Menegur Pria yang Terus Memandanginya di Waduk Sermo\n\nSeorang perempuan berinisial YR (33) diduga menjadi korban penganiayaan di kawasan Waduk Sermo, Kulon Progo, Kamis (27/8).\n\nKejadian bermula ketika YR sedang beristirahat di kawasan https://t.co/U8DmLwzJwk",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1,
+  "replyCount": 1,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 160,
+  "createdAt": "Sat Aug 29 14:03:14 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2093701009906323699",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "itscherieclub",
+    "url": "https://x.com/itscherieclub",
+    "twitterUrl": "https://twitter.com/itscherieclub",
+    "id": "1726038938882871296",
+    "name": "𐙚 Cherie ⋆ ✩",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2072883935944814592/wvjgoaM8_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1726038938882871296/1782965093",
+    "description": "𐙚 Just a girl who like to yap, they call me a professional yapper \n✩ Feeding your curious side, one fact at a time",
+    "location": "",
+    "followers": 3862,
+    "following": 3038,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 19 00:45:38 +0000 2023",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6512,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 650,
+    "statusesCount": 9534,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2078927505244008756"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/U8DmLwzJwk",
+        "expanded_url": "https://x.com/itscherieclub/status/2093701009906323699/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2093700973508382721",
+        "indices": [
+          277,
+          300
+        ],
+        "media_key": "13_2093700973508382721",
+        "media_results": {
+          "result": {
+            "media_key": "13_2093700973508382721"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2093700973508382721/img/40h1LEEc59OCxbQo.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/U8DmLwzJwk",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 41344,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2093700973508382721/pl/oktthNdTwmHW-t-n.m3u8?tag=29"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2093700973508382721/vid/avc1/320x568/EyAAY5o44TtSEiya.mp4?tag=29"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2093700973508382721/vid/avc1/480x852/uPAdnRfMv5arAm2N.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2093700973508382721/vid/avc1/720x1280/hl2ViO714A8fTvKJ.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2093700973508382721/img/40h1LEEc59OCxbQo.jpg"
+  ],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2093672992664690795",
+  "url": "https://x.com/Kosimatkasah/status/2093672992664690795",
+  "twitterUrl": "https://twitter.com/Kosimatkasah/status/2093672992664690795",
+  "text": "Masyarakat dipindahkan ke desil 8, 9, 10, otomatis bansos dihentikan.  \nDan dananya dialihkan untuk program MBG dan Kopdes.\n------\n\nTukang Becak Masuk Desil 9, Setelah Data Diperbarui Jadi Desil 3\n\nSempat bikin heboh karena seorang tukang becak di Kulon Progo tercatat masuk desil 9, kini datanya sudah diperbarui dan masuk desil 3.\n\nKepala BPS Amalia Adininggar Widyasanti menjelaskan, data sebelumnya belum dimutakhirkan melalui kanal yang tersedia.",
+  "fullText": "Masyarakat dipindahkan ke desil 8, 9, 10, otomatis bansos dihentikan.  \nDan dananya dialihkan untuk program MBG dan Kopdes.\n------\n\nTukang Becak Masuk Desil 9, Setelah Data Diperbarui Jadi Desil 3\n\nSempat bikin heboh karena seorang tukang becak di Kulon Progo tercatat masuk desil https://t.co/nqdaMrwjeJ",
+  "source": "Twitter for Android",
+  "retweetCount": 11,
+  "replyCount": 9,
+  "likeCount": 19,
+  "quoteCount": 0,
+  "viewCount": 1337,
+  "createdAt": "Sat Aug 29 12:11:54 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "2093672992664690795",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "Kosimatkasah",
+    "url": "https://x.com/Kosimatkasah",
+    "twitterUrl": "https://twitter.com/Kosimatkasah",
+    "id": "754652093672067072",
+    "name": "ᴷᵒˢⁱᵐ Matkasah ⁵⁵⁵",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2048793868313976832/6q_hVGP3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/754652093672067072/1653216264",
+    "description": "Random opini, realita nyasar, Jawa bijak, chaos santai. Gas!!",
+    "location": "Lor Rel Kidul Sepur",
+    "followers": 21991,
+    "following": 12819,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jul 17 12:20:54 +0000 2016",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 78136,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 4896,
+    "statusesCount": 45455,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/nqdaMrwjeJ",
+        "expanded_url": "https://x.com/Kosimatkasah/status/2093672992664690795/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2093672950537068544",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "13_2093672950537068544",
+        "media_results": {
+          "result": {
+            "media_key": "13_2093672950537068544"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2093672950537068544/img/KcTYz-pnjG-mZr5x.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/nqdaMrwjeJ",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 45882,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2093672950537068544/pl/gaqp4OCrGjh4ZUm1.m3u8?tag=29"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2093672950537068544/vid/avc1/320x568/vH9ATQASvJ1YyGKZ.mp4?tag=29"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2093672950537068544/vid/avc1/480x852/r93bvSyRJ8fbiIbj.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2093672950537068544/vid/avc1/720x1280/OJUy24rvxsp4k4i7.mp4?tag=29"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2093672950537068544/img/KcTYz-pnjG-mZr5x.jpg"
+  ],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2093660745099550806",
+  "url": "https://x.com/captPriceisdead/status/2093660745099550806",
+  "twitterUrl": "https://twitter.com/captPriceisdead/status/2093660745099550806",
+  "text": "@Rombohedron @dokterparu Di kampung halaman gw di suatu daerah di jogja kulon progo, banyak jalanan desa yg kemiringannya sampe 30°, kalian neken rem motor bersamaan aja itu motor ga akan berhenti dan herannya jarang ada warlok yg kecelakaan wkwk",
+  "fullText": "@Rombohedron @dokterparu Di kampung halaman gw di suatu daerah di jogja kulon progo, banyak jalanan desa yg kemiringannya sampe 30°, kalian neken rem motor bersamaan aja itu motor ga akan berhenti dan herannya jarang ada warlok yg kecelakaan wkwk",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 5,
+  "quoteCount": 0,
+  "viewCount": 1316,
+  "createdAt": "Sat Aug 29 11:23:14 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2093622230802669590",
+  "conversationId": "2093567518967230560",
+  "inReplyToUserId": "1140492124317605890",
+  "inReplyToUsername": "Rombohedron",
+  "author": {
+    "type": "user",
+    "userName": "captPriceisdead",
+    "url": "https://x.com/captPriceisdead",
+    "twitterUrl": "https://twitter.com/captPriceisdead",
+    "id": "2550679982",
+    "name": "Peter Pargriffin",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1874721367041638401/z9YhW_gD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2550679982/1632515703",
+    "description": "just military enthusiast, all my tweets are personal opinion.",
+    "location": "",
+    "followers": 143,
+    "following": 219,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jun 06 18:23:47 +0000 2014",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 797,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 395,
+    "statusesCount": 8021,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1140492124317605890",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Prastyo",
+        "screen_name": "Rombohedron"
+      },
+      {
+        "id_str": "1335980312",
+        "indices": [
+          13,
+          24
+        ],
+        "name": "一三一两 🍉 🫁 🎮",
+        "screen_name": "dokterparu"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+},
+{
+  "type": "tweet",
+  "id": "2093577312243728775",
+  "url": "https://x.com/joglodejava/status/2093577312243728775",
+  "twitterUrl": "https://twitter.com/joglodejava/status/2093577312243728775",
+  "text": "GARA-GARA DESIL NAIK! Tukang Becak Jadi 'Orang Kaya', Bansos & Beasiswa Anak Terancam Hilang\n\nTahukah Kamu?, YOGYAKARTA - Perubahan sistem Desil bikin heboh. Tukang becak, pedagang asongan, pengidap gagal ginjal, hingga mahasiswa mendadak tak lagi dapat perlindungan sosial negara.\n\nKisah paling nyelekit datang dari Timbul, 49 tahun, tukang becak di Kulon Progo.\n\nDesilnya melonjak drastis dari 1 ke 9. Bahkan lebih tinggi dari lurahnya yang Desil 8.\n\nPadahal Timbul tinggal di rumah yang dihuni 7 keluarga, penghasilan tak menentu dari 0 rupiah sampai Rp300 ribu sehari.\n\n\"Anak sambat mau kuliah. Tapi saya tukang becak, masuk Desil 9. Anak menangis karena sudah telanjur daftar,\" kata Timbul.[mengeluh]\n\nIa khawatir tak mampu biayai kuliah anaknya di UNY dan bansos yang selama ini ia terima seperti beras, minyak goreng, dan uang tunai akan hilang.\n\nKini Timbul harus ngurus pemutakhiran data di Data Tunggal Sosial dan Ekonomi Nasional (DTSEN) lewat desa.\n\nApa itu Desil?\nDesil adalah pengelompokan kesejahteraan 1-10 di DTSEN. Desil 1 = paling miskin, Desil 10 = paling kaya. Data ini jadi acuan tunggal bansos, PBI BPJS, KIP Kuliah, dll.\n\nKenapa Jadi Polemik?\nKarena pemutakhiran pakai data baru banyak yang miss. Orang miskin ke-detect kaya, orang kaya ke-detect miskin. Akibatnya yang butuh malah tercoret.\n\nMenurut kamu, sistem desil ini perlu diaudit ulang gak?\n\nBaca selengkapnya: BBC Indonesia\n\n#Desil #DTSEN #Bansos #KulonProgo",
+  "fullText": "GARA-GARA DESIL NAIK! Tukang Becak Jadi 'Orang Kaya', Bansos &amp; Beasiswa Anak Terancam Hilang\n\nTahukah Kamu?, YOGYAKARTA - Perubahan sistem Desil bikin heboh. Tukang becak, pedagang asongan, pengidap gagal ginjal, hingga mahasiswa mendadak tak lagi dapat perlindungan sosial https://t.co/Hma1HJyIjQ",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 395,
+  "createdAt": "Sat Aug 29 05:51:42 +0000 2026",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2093577312243728775",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "joglodejava",
+    "url": "https://x.com/joglodejava",
+    "twitterUrl": "https://twitter.com/joglodejava",
+    "id": "1195220365",
+    "name": "RJT↙️",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1915294329566048256/53zPVWaF_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1195220365/1751097155",
+    "description": "menghadirkan eksotisme hunian Anda.....\ncall atau WA +62 813 5773 1779\n\nhttps://t.co/Iz4d0Vk0qU",
+    "location": "workshop bulakan, sukoharjo",
+    "followers": 4090,
+    "following": 6965,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Feb 18 23:11:57 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "wa.me/6282329986194",
+            "expanded_url": "https://wa.me/6282329986194",
+            "indices": [
+              72,
+              95
+            ],
+            "url": "https://t.co/Iz4d0Vk0qU"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "propertyjawa1779.wordpress.com/about/",
+            "expanded_url": "https://propertyjawa1779.wordpress.com/about/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8fXPR2wxt6"
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27219,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4077,
+    "statusesCount": 46969,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1208236674469072902"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 399,
+          "name": "Home & Garden"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "2084931607610233198"
+    }
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Hma1HJyIjQ",
+        "expanded_url": "https://x.com/joglodejava/status/2093577312243728775/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2093577302395514880",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "3_2093577302395514880",
+        "media_results": {
+          "result": {
+            "media_key": "3_2093577302395514880"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HQ3hdtsa8AAcuui.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 475
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 67,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 270,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Hma1HJyIjQ"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          1408,
+          1414
+        ],
+        "text": "Desil"
+      },
+      {
+        "indices": [
+          1415,
+          1421
+        ],
+        "text": "DTSEN"
+      },
+      {
+        "indices": [
+          1422,
+          1429
+        ],
+        "text": "Bansos"
+      },
+      {
+        "indices": [
+          1430,
+          1441
+        ],
+        "text": "KulonProgo"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HQ3hdtsa8AAcuui.jpg"
+  ],
+  "isConversationControlled": false,
+  "searchTerm": "\"Kulon Progo\" OR Kulonprogo since:2026-07-01 until:2026-09-01 lang:id"
+}]
